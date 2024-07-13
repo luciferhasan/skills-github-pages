@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-author:Syed Hasan Askari Rizvi
+author: Syed Hasan Askari Rizvi
 ---
 
